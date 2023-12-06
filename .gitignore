@@ -1,0 +1,19 @@
+# Tệp và thư mục tạm thời
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Môi trường ảo
+venv/
+
+# Các tệp log
+*.log
+
+# Tệp cấu hình cụ thể cho các IDE hoặc trình biên soạn mã nguồn
+.vscode/
+.idea/
+
+# Các tệp cấu hình tự động tạo bởi hệ điều hành
+.DS_Store
+Thumbs.db
